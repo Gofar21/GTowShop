@@ -1,0 +1,26 @@
+{
+    "open sans": {
+        "normal": "C:\/xampp1\/htdocs\/gtowshop\/wp-content\/uploads\/wpo_wcpdf_863fb95fa2a3538b59598cd6b751eedf\/fonts\/OpenSans-Normal",
+        "bold": "C:\/xampp1\/htdocs\/gtowshop\/wp-content\/uploads\/wpo_wcpdf_863fb95fa2a3538b59598cd6b751eedf\/fonts\/OpenSans-Bold",
+        "italic": "C:\/xampp1\/htdocs\/gtowshop\/wp-content\/uploads\/wpo_wcpdf_863fb95fa2a3538b59598cd6b751eedf\/fonts\/OpenSans-Italic",
+        "bold_italic": "C:\/xampp1\/htdocs\/gtowshop\/wp-content\/uploads\/wpo_wcpdf_863fb95fa2a3538b59598cd6b751eedf\/fonts\/OpenSans-BoldItalic"
+    },
+    "segoe": {
+        "normal": "C:\/xampp1\/htdocs\/gtowshop\/wp-content\/uploads\/wpo_wcpdf_863fb95fa2a3538b59598cd6b751eedf\/fonts\/Segoe-Normal",
+        "bold": "C:\/xampp1\/htdocs\/gtowshop\/wp-content\/uploads\/wpo_wcpdf_863fb95fa2a3538b59598cd6b751eedf\/fonts\/Segoe-Bold",
+        "italic": "C:\/xampp1\/htdocs\/gtowshop\/wp-content\/uploads\/wpo_wcpdf_863fb95fa2a3538b59598cd6b751eedf\/fonts\/Segoe-Italic",
+        "bold_italic": "C:\/xampp1\/htdocs\/gtowshop\/wp-content\/uploads\/wpo_wcpdf_863fb95fa2a3538b59598cd6b751eedf\/fonts\/Segoe-BoldItalic"
+    },
+    "roboto slab": {
+        "normal": "C:\/xampp1\/htdocs\/gtowshop\/wp-content\/uploads\/wpo_wcpdf_863fb95fa2a3538b59598cd6b751eedf\/fonts\/RobotoSlab-Normal",
+        "bold": "C:\/xampp1\/htdocs\/gtowshop\/wp-content\/uploads\/wpo_wcpdf_863fb95fa2a3538b59598cd6b751eedf\/fonts\/RobotoSlab-Bold",
+        "italic": "C:\/xampp1\/htdocs\/gtowshop\/wp-content\/uploads\/wpo_wcpdf_863fb95fa2a3538b59598cd6b751eedf\/fonts\/RobotoSlab-Italic",
+        "bold_italic": "C:\/xampp1\/htdocs\/gtowshop\/wp-content\/uploads\/wpo_wcpdf_863fb95fa2a3538b59598cd6b751eedf\/fonts\/RobotoSlab-BoldItalic"
+    },
+    "currencies": {
+        "normal": "C:\/xampp1\/htdocs\/gtowshop\/wp-content\/uploads\/wpo_wcpdf_863fb95fa2a3538b59598cd6b751eedf\/fonts\/currencies",
+        "bold": "C:\/xampp1\/htdocs\/gtowshop\/wp-content\/uploads\/wpo_wcpdf_863fb95fa2a3538b59598cd6b751eedf\/fonts\/currencies",
+        "italic": "C:\/xampp1\/htdocs\/gtowshop\/wp-content\/uploads\/wpo_wcpdf_863fb95fa2a3538b59598cd6b751eedf\/fonts\/currencies",
+        "bold_italic": "C:\/xampp1\/htdocs\/gtowshop\/wp-content\/uploads\/wpo_wcpdf_863fb95fa2a3538b59598cd6b751eedf\/fonts\/currencies"
+    }
+}
